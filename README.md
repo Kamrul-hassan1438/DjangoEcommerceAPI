@@ -19,9 +19,6 @@ Django Filters
 
 Setup
 
-Clone the repository:git clone https://github.com/yourusername/MarketplaceAPI.git
-cd MarketplaceAPI
-
 
 Create a virtual environment:python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
